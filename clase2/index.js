@@ -1,28 +1,30 @@
-// EJEMPLO 
+// EJEMPLO UNO
 
-let edad = prompt('ingrese su edad');
+// let edad = prompt('ingrese su edad');
 
-if(edad >= 18){
-    alert('es mayor de edad');
-}else{
-    alert('no es mayor de edad')
-};
+// if(edad >= 18){
+//     alert('es mayor de edad');
+// }else{
+//     alert('no es mayor de edad')
+// };
 
 // EJEMPLO DOS
-let saludo = prompt('ingrese su saludo');
+// let saludo = prompt('ingrese su saludo');
 
-if(saludo == 'Hola'){
-    alert('Hola como estas?')
-}else{
-    alert('No me saludaste')
-};
+// if(saludo == 'Hola'){
+//     alert('Hola como estas?')
+// }else{
+//     alert('No me saludaste')
+// };
 
 // EJEMPLO TRES
-let numero = prompt('ingrese un numero');
+// let numero = prompt('ingrese un numero');
 
-if(numero >= 10 && numero <= 50){
-    console.log('Tu numero esta entre 10 y 50')
+// if(numero >= 10 && numero <= 50){
+//     console.log('Tu numero esta entre 10 y 50')
 
-}else{
-    console.log('Tu numero no cumple las condiciones')
-};
+// }else{
+//     console.log('Tu numero no cumple las condiciones')
+// };
+
+
